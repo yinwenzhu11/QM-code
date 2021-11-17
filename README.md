@@ -1,2 +1,2 @@
 # QM-code
-Quantitative methods courseworks cord
+Quantitative methods courseworks code
